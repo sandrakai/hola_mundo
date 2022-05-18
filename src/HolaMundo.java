@@ -1,6 +1,6 @@
 public class HolaMundo {
 
-///Añado commentsssssssss
+///Añado comments
     public static void main(String[] args) {
 
        /* String persona = "Sandra";
